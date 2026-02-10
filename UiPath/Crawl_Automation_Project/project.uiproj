@@ -1,0 +1,6 @@
+{
+  "Name": "Crawl_Automation_Project",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
